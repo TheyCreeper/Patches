@@ -1,0 +1,1 @@
+reg import ".\src\disable.reg"

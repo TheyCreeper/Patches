@@ -1,0 +1,10 @@
+Folder PATH listing
+Volume serial number is 6EC3-D0C9
+C:.
+|   apply.ps1
+|   changelog.md
+|   output.txt
+|   
+\---src
+        disable.reg
+        

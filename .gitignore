@@ -1,1 +1,4 @@
-Patches/patches/*/pb/Executables/AtlasModules/Wallpapers/*
+# Include minimal playbook version
+patches/*/pb/Executables/AtlasModules/Wallpapers/*
+patches/*/pb/Executables/Themes
+patches/*/pb/Executables/*.*
